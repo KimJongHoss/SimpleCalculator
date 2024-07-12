@@ -5,9 +5,9 @@ C# 학습을 위한 간단한 계산기 제작
 
 # view
 
-![KakaoTalk_20240710_230022580](https://github.com/KimJongHoss/SimpleCalculator/assets/162934165/486b4aba-ebbc-4fd2-a975-c5f5d56215ec)
 
----
+---![KakaoTalk_20240710_231838960](https://github.com/user-attachments/assets/94e3d299-4e8d-467c-984e-0daf5d49c30b)
+
 
 # 기능
 
