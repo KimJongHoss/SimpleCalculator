@@ -32,7 +32,7 @@ C# 학습을 위한 간단한 계산기 제작
 
 # 구성원
 ```swift
-public Enginner Mr.simples() {
+public team Mr.simples() {
   public Enginner HyunJin;
   public Enginner JongHo
   ...
